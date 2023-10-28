@@ -1,0 +1,13 @@
+.mainContainer {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  padding: 30px;
+}
+
+@media screen and (max-width: 1150px) {
+  .mainContainer {
+    justify-content: center;
+    align-items: center;
+  }
+}

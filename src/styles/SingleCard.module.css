@@ -1,0 +1,50 @@
+.singleCard {
+  user-select: none;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  height: 400px;
+  margin: 30px;
+  background-color: white;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 0 3px black;
+}
+
+.description {
+  display: flex;
+  flex-direction: column;
+}
+
+.addOrMinus {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.count {
+  font-size: 20px;
+  font-weight: 500;
+  margin-top: 5px;
+  color: black;
+}
+
+.singleCardBtn {
+  width: 80%;
+  height: 35px;
+  margin: 0 auto;
+  margin-top: 10px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: 0.7s;
+  font-size: 15px;
+  box-shadow: 0 0 2px black;
+}
+
+.singleCardBtn:hover {
+  background-color: green;
+}
