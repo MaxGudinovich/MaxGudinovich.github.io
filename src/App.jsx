@@ -33,7 +33,7 @@ function App() {
       <HashRouter>
         <Routes>
           <Route
-            path="/fakeshop"
+            path="/"
             element={<MainLayout productsInCart={productsInCart} />}
           >
             <Route index element={<Home />} />

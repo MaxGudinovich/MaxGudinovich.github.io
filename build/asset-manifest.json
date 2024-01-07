@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/fakeshop/static/css/main.82890682.css",
-    "main.js": "/fakeshop/static/js/main.c5f7bd20.js",
+    "main.js": "/fakeshop/static/js/main.d0c34ec3.js",
     "static/media/landscape-background-mountains-with-river-illustration.jpg": "/fakeshop/static/media/landscape-background-mountains-with-river-illustration.bc31a65c575956e5e8a0.jpg",
     "index.html": "/fakeshop/index.html",
     "main.82890682.css.map": "/fakeshop/static/css/main.82890682.css.map",
-    "main.c5f7bd20.js.map": "/fakeshop/static/js/main.c5f7bd20.js.map"
+    "main.d0c34ec3.js.map": "/fakeshop/static/js/main.d0c34ec3.js.map"
   },
   "entrypoints": [
     "static/css/main.82890682.css",
-    "static/js/main.c5f7bd20.js"
+    "static/js/main.d0c34ec3.js"
   ]
 }
