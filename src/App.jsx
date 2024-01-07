@@ -30,7 +30,7 @@ function App() {
 
   return (
     <div className="App">
-      <HashRouter>
+      <HashRouter basename="/fakeshop">
         <Routes>
           <Route
             path="/"
