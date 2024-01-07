@@ -30,10 +30,10 @@ function App() {
 
   return (
     <div className="App">
-      <HashRouter basename="/fakeshop">
+      <HashRouter>
         <Routes>
           <Route
-            path="/"
+            path="/fakeshop"
             element={<MainLayout productsInCart={productsInCart} />}
           >
             <Route index element={<Home />} />
