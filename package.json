@@ -1,7 +1,7 @@
 {
   "name": "99-template",
   "version": "0.1.0",
-  "homepage": "https://maxgudinovich.github.io/#",
+  "homepage": "https://maxgudinovich.github.io/fakeshop#",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
